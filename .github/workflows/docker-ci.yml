@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: yourdockerhubusername/visitor-count:latest
+          tags: gokulgkaimal/visitor-count:latest
