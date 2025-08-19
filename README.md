@@ -21,13 +21,11 @@ A lightweight Python Flask application that displays and tracks the number of vi
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/your-username/visitor-count-app.git
 cd visitor-count-app
 2. Run with Docker
-bash
-Copy
-Edit
+
 docker build -t visitor-count-app .
 docker run -p 5000:5000 visitor-count-app
 Visit http://localhost:5000 in your browser.
